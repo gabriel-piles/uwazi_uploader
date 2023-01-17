@@ -1,1 +1,3 @@
-# uwazi_uploader
+### To run the dummy service: 
+make start
+python upload.py
